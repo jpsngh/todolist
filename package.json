@@ -1,0 +1,26 @@
+{
+  "name": "nodep",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "jp",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cookie": "^0.5.0",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0",
+    "parser": "^0.1.4",
+    "partser": "^3.0.3",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
